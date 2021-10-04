@@ -150,3 +150,5 @@ dist
 ### Node Patch ###
 # Serverless Webpack directories
 .webpack/
+
+index-release.html
